@@ -1,1 +1,1 @@
-Data for the hsaf_cci_042 package.
+Test data for the esa_cci_sm package.
